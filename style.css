@@ -15,7 +15,7 @@ margin-right: 28%;}
 
 /* This defines some general information about the webpage, i.e. the font. */
 body {
-font-family: sans-serif;
+font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji;
 line-height: 1.45;}
 h2 { display: inline }
 
